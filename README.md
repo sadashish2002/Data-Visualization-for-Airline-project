@@ -15,4 +15,8 @@ After completing the lab you will be able to:
 
 Airline Reporting Carrier On-Time Performance dataset from Data Asset eXchange
 
+# Pre-Requisite
 
+* python3 -m pip install packaging
+* python3 -m pip install pandas dash
+* pip3 install httpx==0.20 dash plotly
